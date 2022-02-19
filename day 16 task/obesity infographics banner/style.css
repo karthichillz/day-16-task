@@ -1,0 +1,92 @@
+
+.font-bg{
+    font-family: 'Poppins', sans-serif;
+}
+
+.sub-head{
+    font-family: 'Poppins', sans-serif;
+    color: grey;
+}
+
+.highted-text{
+    font-family: 'Poppins', sans-serif;
+    background-color: skyblue;
+    color:white;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.sub-top{
+    font-size: 2em;
+    color: darkblue;
+    font-family: 'Poppins', sans-serif;
+}
+
+.image-bg{
+    height: 7.5em;
+    width: auto;  
+}
+
+.content{
+    font-family: 'Poppins', sans-serif;  
+    color: skyblue; 
+}
+
+.img-bg{
+    color: orange;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.img-ld{
+    height: 7.5em;
+    width: auto;  
+}
+
+.side-font{
+ font-family: 'Poppins', sans-serif;
+ color: orange;
+ font-size: xx-large;   
+}
+
+.num-dr{
+    color: darkblue;
+    font-size: 3.5em;
+    font-weight: bold;
+}
+
+.hum-img{
+    height: 12em;
+    width: auto
+}
+
+.hum-img2{
+    height: 13.5em;
+    width: auto;
+}
+
+.line-hg{
+    line-height: 20px;
+}
+
+.line-hg2{
+    line-height: 30px;
+}
+
+.rs-fonts{
+    font-size: 1.8em;
+    color: skyblue;
+    font-family: 'Poppins', sans-serif;
+}
+
+.people{
+    font-family: 'Poppins', sans-serif;  
+    color: orange; 
+
+}
+
+.img-lb{
+    color: orange;
+    font-size: 40px;
+    font-weight: bold;
+}
